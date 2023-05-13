@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<table border="0">
+<!-- <table border="0">
      <tr>
         <td>
         I am Ivo Petkov and I am a Data Analyst. For my analyzes I use tools such as Excel and PowerBI. Since programming turned out to be quite an interesting hobby for me, I study methods that can help me use it in my work.
@@ -9,7 +9,13 @@
         <img src="analyst.gif" alt="Analyst">
         </td>
     </tr>
-</table>
+</table> -->
+
+
+
+I am Ivo Petkov and I am a Data Analyst. For my analyzes I use tools such as Excel and PowerBI. Since programming turned out to be quite an interesting hobby for me, I study methods that can help me use it in my work.
+
+<img src="analyst.gif" alt="Analyst">
 
 
 | Type   | Topic                                | Start          | Done |
