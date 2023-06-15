@@ -23,9 +23,9 @@
 |--------|--------------------------------------|----------------|------|
 | BI     | Power BI Data Analysis               | October 2022   | ✅   |
 | Python | Programming Basic with Python        | January 2023   | ✅   |
-| AI     | Math Concepts for Developers         | March 2023     | ⬜️🕝   |
+| AI     | Math Concepts for Developers         | March 2023     | ✅   |
 | Python | Programming Fundamentals with Python | May 2023       | ⬜️🕝   |
-| AI     | Data Science                         | June 2023      | ⬜️📅   |
+| AI     | Data Science                         | June 2023      | ⬜️🕝   |
 | AI     | Machine Learning                     | September 2023 | ⬜️📅   |
 | AI     | Deep Learning                        | December 2023  | ⬜️📅   |
 
