@@ -28,6 +28,7 @@
 | AI     | Data Science                         | June 2023      | ✅   |
 | Python | Programming Advanced with Python     | September 2023 | ⬜️🕝   |
 | AI     | Machine Learning                     | September 2023 | ⬜️🕝   |
+| Python | Programming with Python OOP          | October 2023   | ⬜️📅   |
 | AI     | Deep Learning                        | December 2023  | ⬜️📅   |
 
 
