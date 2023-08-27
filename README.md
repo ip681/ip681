@@ -19,17 +19,17 @@
 <img src="analyst.gif" alt="Analyst" width="500"> -->
 
 
-| Type   | Topic                                | Start          | Done |
-|--------|--------------------------------------|----------------|------|
-| BI     | Power BI Data Analysis               | October 2022   | ✅   |
-| Python | Programming Basic with Python        | January 2023   | ✅   |
-| AI     | Math Concepts for Developers         | March 2023     | ✅   |
-| Python | Programming Fundamentals with Python | May 2023       | ✅   |
-| AI     | Data Science                         | June 2023      | ✅   |
-| Python | Programming Advanced with Python     | September 2023 | ⬜️🕝   |
-| AI     | Machine Learning                     | September 2023 | ⬜️🕝   |
-| Python | Programming with Python OOP          | October 2023   | ⬜️📅   |
-| AI     | Deep Learning                        | December 2023  | ⬜️📅   |
+| Type   | Topic                                | Start          | End           | Done  |
+|--------|--------------------------------------|----------------|---------------|-------|
+| BI     | Power BI Data Analysis               | October 2022   | December 2022 | ✅     |
+| Python | Programming Basic with Python        | January 2023   | February 2023 | ✅     |
+| AI     | Math Concepts for Developers         | March 2023     | June 2023     | ✅     |
+| Python | Programming Fundamentals with Python | May 2023       | August 2023   | ✅     |
+| AI     | Data Science                         | June 2023      | August 2023   | ✅     |
+| Python | Programming Advanced with Python     | September 2023 | October 2023  | ⬜️🕝  |
+| AI     | Machine Learning                     | September 2023 | November 2023 | ⬜️🕝  |
+| Python | Programming with Python OOP          | October 2023   | December 2023 | ⬜️📅  |
+| AI     | Deep Learning                        | November 2023  | February 2024 | ⬜️📅  |
 
 
 
