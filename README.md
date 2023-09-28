@@ -1,5 +1,3 @@
-<p><span style="font-size:20px"><span style="color:#c0392b"><strong>100% Follow Back (followers = following)</strong></span></span></p>
-
 <img src="ip681.jpg" alt="Analyst">
 
 
