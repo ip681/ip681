@@ -17,17 +17,20 @@
 
  <!-- [![Ivo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ip681&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/ip681/) -->
 
- <div width="100%" align="center">
+ <!-- <div width="100%" align="center">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ip681&theme=transparent"/>
-</div>
+</div> -->
 
 <br></br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ip681&theme=default)
 
 
-[![](https://raw.githubusercontent.com/ip681/ip681/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ip681/ip681/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ip681/ip681/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ip681/ip681/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ip681&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ip681&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ip681&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ip681&theme=default&utcOffset=8)
+
+
 
 
 
