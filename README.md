@@ -40,12 +40,9 @@
 | Programming Basic with Python        | January 2023   | February 2023 | ✅     |
 | Math Concepts for Developers         | March 2023     | June 2023     | ✅     |
 | Programming Fundamentals with Python | May 2023       | August 2023   | ✅     |
-<!-- | Data Science                         | June 2023      | August 2023   | ✅     | -->
 | Programming Advanced with Python     | September 2023 | October 2023  | ✅     |
-<!-- | Machine Learning                     | September 2023 | November 2023 | ⬜️🕝  | -->
 | Programming with Python OOP          | October 2023   | December 2023 | ✅     |
-<!-- | Deep Learning                        | November 2023  | February 2024 | ⬜️📅  | -->
-| Jupyter Noteboo Mmastery             | December 2023  | January 2024 | ✅      |
+| Jupyter Noteboo Mmastery             | December 2023  | January 2024  | ✅     |
 
  <br>
 ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄ <br>
