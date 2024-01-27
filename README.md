@@ -25,6 +25,12 @@
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ip681&theme=transparent"/>
 </div>
 
+<br></br>
+[![](https://raw.githubusercontent.com/ip681/ip681/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ip681/ip681/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ip681/ip681/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ip681/ip681/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ip681/ip681/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 | Type   | Topic                                | Start          | End           | Done  |
 |--------|--------------------------------------|----------------|---------------|-------|
 | BI     | Power BI Data Analysis               | October 2022   | December 2022 | ✅     |
@@ -32,7 +38,7 @@
 | AI     | Math Concepts for Developers         | March 2023     | June 2023     | ✅     |
 | Python | Programming Fundamentals with Python | May 2023       | August 2023   | ✅     |
 | AI     | Data Science                         | June 2023      | August 2023   | ✅     |
-| Python | Programming Advanced with Python     | September 2023 | October 2023  | ⬜️🕝  |
+| Python | Programming Advanced with Python     | September 2023 | October 2023  | ✅     |
 | AI     | Machine Learning                     | September 2023 | November 2023 | ⬜️🕝  |
 | Python | Programming with Python OOP          | October 2023   | December 2023 | ⬜️📅  |
 | AI     | Deep Learning                        | November 2023  | February 2024 | ⬜️📅  |
@@ -47,6 +53,21 @@
 ⠄⠄⣿⣿⣿⣿⣿⠄⣿⣿⣿⣿⣿⠄⣿⣿⣿⣿⣿⠄⣿⣿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠄⠄⠄ <br>
 ⠄⠄⣿⣿⣿⣿⣿⠄⣿⣿⣿⣿⣿⠄⣿⣿⣿⣿⣿⠄⣿⣿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠄⠄⠄ <br>
 ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄ <br>
+
+ <!-- <br>
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄ <br>
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄ <br>
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⠄⢻⣿⣿⡇⠄⠄ <br>
+⠄⠄⠄⠄⠄⠄⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⠄⣼⣿⣿⡇⠄⠄ <br>
+⠄⠄⠄⠄⠄⠄⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⣿⣿⣿⣿⠋⠄⠄⠄ <br>
+⠄⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠄⠄ <br>
+⠄⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠄⠄ <br>
+⠄⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⣿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠄⠄ <br>
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄ <br> -->
+
+
+
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ip681&show_icons=true&theme=transparent) -->
 
