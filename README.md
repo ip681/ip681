@@ -34,17 +34,18 @@
 
 
 
-| Type   | Topic                                | Start          | End           | Done  |
-|--------|--------------------------------------|----------------|---------------|-------|
-| BI     | Power BI Data Analysis               | October 2022   | December 2022 | ✅     |
-| Python | Programming Basic with Python        | January 2023   | February 2023 | ✅     |
-| AI     | Math Concepts for Developers         | March 2023     | June 2023     | ✅     |
-| Python | Programming Fundamentals with Python | May 2023       | August 2023   | ✅     |
-| AI     | Data Science                         | June 2023      | August 2023   | ✅     |
-| Python | Programming Advanced with Python     | September 2023 | October 2023  | ✅     |
-| AI     | Machine Learning                     | September 2023 | November 2023 | ⬜️🕝  |
-| Python | Programming with Python OOP          | October 2023   | December 2023 | ⬜️📅  |
-| AI     | Deep Learning                        | November 2023  | February 2024 | ⬜️📅  |
+| Topic                                | Start          | End           | Done  |
+|--------------------------------------|----------------|---------------|-------|
+| Power BI Data Analysis               | October 2022   | December 2022 | ✅     |
+| Programming Basic with Python        | January 2023   | February 2023 | ✅     |
+| Math Concepts for Developers         | March 2023     | June 2023     | ✅     |
+| Programming Fundamentals with Python | May 2023       | August 2023   | ✅     |
+<!-- | Data Science                         | June 2023      | August 2023   | ✅     | -->
+| Programming Advanced with Python     | September 2023 | October 2023  | ✅     |
+<!-- | Machine Learning                     | September 2023 | November 2023 | ⬜️🕝  | -->
+| Programming with Python OOP          | October 2023   | December 2023 | ✅     |
+<!-- | Deep Learning                        | November 2023  | February 2024 | ⬜️📅  | -->
+| Jupyter Noteboo Mmastery             | December 2023  | January 2024 | ✅      |
 
  <br>
 ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄ <br>
@@ -76,21 +77,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ip681&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-<!--
-**ip681/ip681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
