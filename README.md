@@ -23,12 +23,12 @@
 
 <br></br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ip681&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ip681&theme=nord_dark)
 
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ip681&theme=default) &nbsp;&nbsp;&nbsp;  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ip681&theme=default) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ip681&theme=vue)  &nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ip681&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ip681&theme=nord_dark)  &nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ip681&theme=nord_dark&utcOffset=8)
 
 
 ### Courses
